@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestSuiteEntity>
+    <name>Test Suite - Automated - UI(created by TO G3)</name>
+    <description></description>
+    <tag></tag>
+    <isRerun>false</isRerun>
+    <mailRecipient></mailRecipient>
+    <numberOfRerun>0</numberOfRerun>
+    <pageLoadTimeout>30</pageLoadTimeout>
+    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+    <rerunImmediately>false</rerunImmediately>
+    <testSuiteGuid>9f4dc782-30ef-40f3-bb2d-822e40b04bdc</testSuiteGuid>
+    <testCaseLink>
+        <guid>20b83cd2-2f2e-487c-b6f4-794182119fd1</guid>
+        <isReuseDriver>false</isReuseDriver>
+        <isRun>true</isRun>
+        <testCaseId>Test Cases/Main Test Cases/Valid login into TO</testCaseId>
+        <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+        <variableLink>
+            <testDataLinkId></testDataLinkId>
+            <type>DEFAULT</type>
+            <value></value>
+            <variableId>14d98e7b-4ac8-4e28-8ce7-394001d188f0</variableId>
+        </variableLink>
+        <variableLink>
+            <testDataLinkId></testDataLinkId>
+            <type>DEFAULT</type>
+            <value></value>
+            <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
+        </variableLink>
+    </testCaseLink>
+    <testCaseLink>
+        <guid>b9c96178-6832-4c7b-83e6-cee1c550e411</guid>
+        <isReuseDriver>false</isReuseDriver>
+        <isRun>true</isRun>
+        <testCaseId>Test Cases/Main Test Cases/Home Page</testCaseId>
+        <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+        <variableLink>
+            <testDataLinkId></testDataLinkId>
+            <type>DEFAULT</type>
+            <value></value>
+            <variableId></variableId>
+        </variableLink>
+    </testCaseLink>
+    <testCaseLink>
+        <guid>427bfe48-5fa5-4305-84f3-afddc42bfa7d</guid>
+        <isReuseDriver>false</isReuseDriver>
+        <isRun>true</isRun>
+        <testCaseId>Test Cases/Common Test Cases/Login</testCaseId>
+        <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+        <variableLink>
+            <testDataLinkId></testDataLinkId>
+            <type>DEFAULT</type>
+            <value></value>
+            <variableId>19fe967b-1564-4705-aff2-848d45b84489</variableId>
+        </variableLink>
+        <variableLink>
+            <testDataLinkId></testDataLinkId>
+            <type>DEFAULT</type>
+            <value></value>
+            <variableId>75fa3d79-7e92-4d55-b359-f7c9493ea288</variableId>
+        </variableLink>
+    </testCaseLink>
+    <testCaseLink>
+        <guid>ff0c7d09-5efb-4a0f-a5ad-c9aa1a7e815d</guid>
+        <isReuseDriver>false</isReuseDriver>
+        <isRun>true</isRun>
+        <testCaseId>Test Cases/Main Test Cases/Valid logout into TO</testCaseId>
+        <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+        <variableLink>
+            <testDataLinkId></testDataLinkId>
+            <type>DEFAULT</type>
+            <value></value>
+            <variableId></variableId>
+        </variableLink>
+    </testCaseLink>
+</TestSuiteEntity>
+
