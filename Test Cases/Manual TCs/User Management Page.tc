@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>User Management Page</name>
+    <testCaseGuid>f7fc8e93-a5f4-493d-a6ba-3a4b3694fee2</testCaseGuid>
+</TestCaseEntity>
+
