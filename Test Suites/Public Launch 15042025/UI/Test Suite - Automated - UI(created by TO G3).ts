@@ -66,7 +66,7 @@
         <guid>ff0c7d09-5efb-4a0f-a5ad-c9aa1a7e815d</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
-        <testCaseId>Test Cases/Main Test Cases/Valid logout into TO</testCaseId>
+        <testCaseId>Test Cases/Manual TCs/Valid logout into TO</testCaseId>
         <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
         <variableLink>
             <testDataLinkId></testDataLinkId>
