@@ -15,7 +15,7 @@
       <guid>d19b518a-55df-421b-b504-c9ea48be3a3e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Valid login into TO G3</testCaseId>
+      <testCaseId>Test Cases/CRUD Test Case Folder/Valid login into TO G3</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
