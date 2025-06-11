@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_AllFeature</name>
+   <name>healthcare-tests - TS_RegressionTest - Copy</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,22 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>5395b483-d70a-476c-902f-301a5ddbe619</testSuiteGuid>
+   <testSuiteGuid>a0dd7209-ea90-40e5-9cf7-6b485e08db10</testSuiteGuid>
    <testCaseLink>
-      <guid>e077f120-2828-43e5-a679-2505b27c2e19</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Home Page</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId></variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6cecda9c-817f-4486-8209-7906b5b75a86</guid>
+      <guid>12b1ed24-3d2b-4bed-87e1-7c72470cdce7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Main Test Cases/Valid login into TO G3</testCaseId>
@@ -44,22 +31,10 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>eb94f45a-c74a-463f-a8bb-83fb3a2447d8</guid>
+      <guid>e4bf2157-13c0-4c5f-875c-fa60a7e7a2fa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases/Login</testCaseId>
+      <testCaseId>Test Cases/Main Test Cases/Home Page</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>19fe967b-1564-4705-aff2-848d45b84489</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>75fa3d79-7e92-4d55-b359-f7c9493ea288</variableId>
-      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
